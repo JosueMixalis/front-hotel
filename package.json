@@ -1,19 +1,23 @@
 {
   "name": "front",
   "version": "1.0.0",
-  "description": "Nuestro primer proyectode js",
+  "description": "\"\u001b[D\"Nuestro primer poyecto Node js\"",
   "main": "index.html",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JosueMixalis/guia-hoteles.git"
   },
-  "author": "Josue Mixalis",
+  "author": "Josue Mixalis\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[D",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JosueMixalis/guia-hoteles/issues"
   },
-  "homepage": "https://github.com/JosueMixalis/guia-hoteles#readme"
+  "homepage": "https://github.com/JosueMixalis/guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
