@@ -1,0 +1,24 @@
+.jumbotron {
+    background-color: yellow;
+    color: black;
+}
+
+/* Div hotel Reserva */
+.card-hotel {
+    flex: 1 150px;
+    padding: 2px 5px 2px 5px;
+    margin-top: 10px;
+
+}
+.btn-reserva {
+    width: 100%;
+    position: relative;
+    bottom: 0;
+}
+
+footer {
+    padding: 10px 10px 0 10px;
+    background-color: yellow;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
