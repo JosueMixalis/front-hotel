@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/JosueMixalis/guia-hoteles.git"
   },
-  "author": "Josue Mixalis\u001b[A\u001b[A\u001b[A\u001b[A\u001b[A\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[B\u001b[B\u001b[B\u001b[B\u001b[B\u001b[D",
+  "author": "Josue Mixalis",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JosueMixalis/guia-hoteles/issues"
@@ -21,7 +21,6 @@
     "lite-server": "^2.6.1"
   },
   "dependencies": {
-    "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.2",
     "jquery": "^3.7.1",
     "popper.js": "^1.16.1"
