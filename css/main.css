@@ -4,6 +4,11 @@
     margin-top: 50px;
 }
 
+img{
+    height: 50px;
+
+}
+
 /* Div hotel Reserva */
 .card-hotel {
     flex: 1 200px;
