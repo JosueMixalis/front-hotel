@@ -1,0 +1,1 @@
+$(function(){$("[data-toggle='tooltip']").tooltip(),$("[data-toggle='popover']").popover(),$(".carousel").carousel({interval:2e3}),$("#contacto").on("show.bs.modal",o=>{$("#contactoBtn").removeClass("btn-outline-success").addClass("btn-primary").prop("disabled",!0)}),$("#contacto").on("hidden.bs.modal",o=>{$("#contactoBtn").prop("disabled",!1)})});
